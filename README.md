@@ -1,5 +1,5 @@
 # Usage
-For test the implemented methods, please run 'Demo_Test.m' script in the matlab environment.
+To test the implemented methods, please run 'Demo_Test.m' script in the matlab environment.
 'helpFig.m' and 'helpFunc.m' are called in 'Demo_Test.m' for plotting the figures.
 Other matlab files are called as functions for implementing the various methods.
 
