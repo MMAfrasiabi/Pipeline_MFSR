@@ -1,0 +1,8 @@
+SRCNN code (model + SRCNN.m + shave.m + modcrop.m) original page:
+http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html
+
+Registration (LKOFlow) original page:
+https://users.soe.ucsc.edu/~milanfar/software/superresolution.html
+
+Alpaca dataset original page:
+https://users.soe.ucsc.edu/~milanfar/software/sr-datasets.html
